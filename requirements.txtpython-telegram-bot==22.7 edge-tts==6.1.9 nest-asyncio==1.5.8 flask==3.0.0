@@ -1,0 +1,4 @@
+python-telegram-bot==22.7
+edge-tts==6.1.9
+nest-asyncio==1.5.8
+flask==3.0.0
